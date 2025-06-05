@@ -29,3 +29,7 @@ Este projeto é um gerador de rifas simples feito em PHP, HTML e CSS. Ele permit
 ## Licença
 
 Uso livre para fins de estudo.
+
+👨‍💻 Desenvolvedores
+
+nome: Higor Carboni email: ohigor.carboni@gmail.com
