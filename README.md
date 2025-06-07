@@ -14,7 +14,6 @@ Este projeto é um gerador de rifas simples feito em PHP, HTML e CSS. Ele permit
 4. Clique em **Gerar Rifas**.
 5. Os bilhetes serão exibidos na tela.
 6. Use o botão **Imprimir Bilhetes** para imprimir.
-7. Use o botão **Limpar Rifas** para ocultar os bilhetes.
 
 ## Estrutura
 
